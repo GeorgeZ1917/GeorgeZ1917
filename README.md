@@ -21,6 +21,7 @@ inside them, create a story and publish the results on my personal blog, togethe
 * Python (`matplotlib`, `pandas`, `numpy`)
 * Basic statistical analysis (average, mean, mode, correlation coefficient, distributions, linear regression analysis, etc.) 
 * LaTeX for plot creation
+* Chart.js
 
 ## General 🖥️
 
