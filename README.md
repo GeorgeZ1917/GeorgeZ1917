@@ -1,30 +1,22 @@
-# Hi there, I'm Jorge 👋
+# Hi there, I'm Jorge Zepeda 👋
 
 ## About 👨
 
-I’m a mechatronics engineer by profession, a .NET developer by choice and a Data Science enthusiast in my free time.
-In the intersection between web development and data science, I like to analyze datasets, find meaningful information
-inside them, create a story and publish the results on my personal blog, together with other various articles.
+Backend .NET developer with +2 years of experience in the development of web applications
+in .NET Framework for the administration of virtual servers used both in our organization
+and by our clients. Additionally, basic support and features to our point of sales and ERP apps.
 
 ## Web Development 👨‍💻
 
 * HTML/CSS
-* Bootstrap
 * JavaScript
-* C#
-* .NET (Webforms, LINQ)
-* SQL Server
-
-## Data Science 📊
-
-* PostgreSQL
-* Python (`matplotlib`, `pandas`, `numpy`)
-* Basic statistical analysis (average, mean, mode, correlation coefficient, distributions, linear regression analysis, etc.) 
-* LaTeX for plot creation
-* Chart.js
+* Bootstrap
+* JQuery
+* .NET Framework (C#, Webforms, Entity Framework, LINQ)
+* SQL Server/PostgreSQL
 
 ## General 🖥️
 
 * Git/GitHub
 * Ubuntu/PowerShell task automation
-
+* Cron tasks
